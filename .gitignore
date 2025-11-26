@@ -9,3 +9,4 @@ package-lock.json
 Cargo.lock
 target
 .direnv
+.build
